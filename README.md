@@ -39,7 +39,7 @@ File->Project Structure->Modules->Dependencies->Click the + button->Add the .jar
 
 ### Source Code
 1. Clone the repository.
-2. Copy the folder <b>[```com```](src/com)</b> to your <b>```src```</b> folder
+2. Open the project in your IDE of choice or copy the folder <b>[```com```](src/com)</b> to your <b>```src```</b> folder
 
 # Usage <a name="usage"></a>
 
