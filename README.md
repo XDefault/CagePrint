@@ -86,7 +86,7 @@ CagePrint.drawScreen();
 CagePrint.clearItems();
 ```
 
-The source code contains a file with an [example](src/test/main/Main.java).
+The source code contains a file with an [example](src\example\main\Main.java).
 
 # Authors <a name = "authors"></a>
 
