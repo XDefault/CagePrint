@@ -57,7 +57,7 @@ import com.xsdefault.cageprint.*;
 CagePrint.cageColor = Colors.BLUE;
 CagePrint.defaultTextColor = Colors.GREEN;
 CagePrint.DrawChars = new char[]{'-', '|'};
-CagePrint.cageSizeOffset = 10;
+CagePrint.paddingAmount = 0;
 ```
 
 ---

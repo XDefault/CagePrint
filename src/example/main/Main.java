@@ -9,7 +9,7 @@ public class Main {
         CagePrint.cageColor = Colors.BLUE;
         CagePrint.defaultTextColor = Colors.GREEN;
         //CagePrint.DrawChars = new char[]{'-', '|'};
-        //CagePrint.cageSizeOffset = 0;
+        //CagePrint.paddingAmount = 0;
 
         /*Add Items*/
         CagePrint.addItemToDraw("Test", CagePrint.Align.MIDDLE);

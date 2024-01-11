@@ -51,7 +51,7 @@ public class CagePrint {
     /**
      * @implNote Adds extra chars to both sides of the text or is added twice in case the message is not centered.
      */
-    public static int cageSizeOffset = 20;
+    public static int paddingAmount = 20;
 
     /**
      * @implNote Gets the biggest message length and add the defined offset(DEFAULT=20).
@@ -67,7 +67,7 @@ public class CagePrint {
             }
         }
 
-        longestLineLength += cageSizeOffset;
+        longestLineLength += paddingAmount;
     }
 
     /**
